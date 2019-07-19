@@ -1,3 +1,4 @@
+package com.lambdaschool.zoos;
 // Vivek Vishwanath
 
 import com.lambdaschool.zoos.model.Role;
